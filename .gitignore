@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/
+/Simple Banking System/task/out/production/classes/
+/Topics/Iterating over arrays/Does an array contain N/out/
+/Topics/Iterating over arrays/Does an array contain N/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
+/Topics/Random/Theory/build/
